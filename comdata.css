@@ -1,0 +1,16 @@
+
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 568px;
+    color: rgb(59, 48, 48);
+    padding: 47px;
+}
+#ad{
+padding-left: 0px;
+}
+.tab{
+    background-color: aqua;
+}

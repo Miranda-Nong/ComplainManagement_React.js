@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    margin-top: 20px;
+    color: #16130e;
+    background-color:white;
+    font-size: 15px;
+    border-radius: 5px;
+
+}
+.oo{ 
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    margin: 2px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #78d89d;;
+}
+.con{
+    margin: -1px 406px;
+}
